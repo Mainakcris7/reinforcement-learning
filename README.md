@@ -1,5 +1,5 @@
 
-# Customer Segmentation for Marketing strategy
+# Selection of best advertisement 
 
 This project is to develop `reinforcement learning` based model, which can select the best advertisement from a bunch of advertisement, so that, the marketing revenue will be highest.
 
