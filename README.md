@@ -38,5 +38,5 @@ I'm still a student, pursuing my B.Tech degree(3rd year, at 2023). I dreamt to b
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mainakcr72002@gmail.com
+If you have any feedback, please reach out to me at mainakcr72002@gmail.com
 
